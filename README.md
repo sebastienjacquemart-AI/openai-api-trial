@@ -1,3 +1,5 @@
+TODO: different account?
+
 # openai-api-trial
 
 ## first connection to openai api
